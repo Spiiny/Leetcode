@@ -20,7 +20,7 @@ Within each directory, you will find:
 | Problem | Difficulty |
 |--------|------------|
 | [0016 3Sum Closest](./0016-3sum-closest/) | Medium |
-| [0169 Majority Element](./0169-majority-element/) | Easy |
+| [0169 Majority Element](./169-majority-element/) | Easy |
 | [0179 Largest Number](./0179-largest-number/) | Medium |
 
 ---
@@ -45,6 +45,6 @@ Within each directory, you will find:
 
 | Problem | Difficulty |
 |--------|------------|
-| [0202 Happy Number](./0202-happy-number/) | Easy |
+| [0202 Happy Number](./202-happy-number/) | Easy |
 
 ---
