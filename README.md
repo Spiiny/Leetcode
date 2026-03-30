@@ -1,1 +1,50 @@
-# Leetcode
+## Problem Classification
+
+The following problems are organized by their primary topic for structured learning and easy navigation. Each entry links directly to the corresponding solution directory.
+
+---
+
+## Repository Structure
+
+Each problem is organized into its own directory, following the naming convention `XXXX-problem-name`, where `XXXX` represents the LeetCode problem number.
+
+Within each directory, you will find:
+
+- `README.md`: A formatted version of the problem statement  
+- Solution file(s): One or more source code files (e.g., `solution.cpp`) containing the implementation 
+
+---
+
+### Arrays
+
+| Problem | Difficulty |
+|--------|------------|
+| [0016 3Sum Closest](./0016-3sum-closest/) | Medium |
+| [0169 Majority Element](./0169-majority-element/) | Easy |
+| [0179 Largest Number](./0179-largest-number/) | Medium |
+
+---
+
+### Strings
+
+| Problem | Difficulty |
+|--------|------------|
+| [0006 Zigzag Conversion](./0006-zigzag-conversion/) | Medium |
+
+---
+
+### Bit Manipulation
+
+| Problem | Difficulty |
+|--------|------------|
+| [0137 Single Number II](./0137-single-number-ii/) | Medium |
+
+---
+
+### Mathematics
+
+| Problem | Difficulty |
+|--------|------------|
+| [0202 Happy Number](./0202-happy-number/) | Easy |
+
+---
