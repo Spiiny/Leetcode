@@ -26,6 +26,14 @@ Within each directory, you will find:
 
 ---
 
+### Backtracking
+
+| Problem | Difficulty |
+|--------|------------|
+| [0040 Combination Sum II](./0040-combination-sum-ii/) | Medium |
+
+---
+
 ### Strings
 
 | Problem | Difficulty |
