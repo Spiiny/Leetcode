@@ -24,6 +24,7 @@ Within each directory, you will find:
 | [0016 3Sum Closest](./0016-3sum-closest/) | Medium |
 | [0075 Sort Colors](./0075-sort-colors/) | Medium |
 | [0179 Largest Number](./0179-largest-number/) | Medium |
+| [0164 Maximum Gap](./0164-maximum-gap/) | Medium |
 
 ---
 
