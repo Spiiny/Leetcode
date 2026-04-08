@@ -60,5 +60,6 @@ Within each directory, you will find:
 | Problem | Difficulty |
 |--------|------------|
 | [0202 Happy Number](./202-happy-number/) | Easy |
+| [0263 Ugly Number](./0263-ugly-number/) | Easy |
 
 ---
