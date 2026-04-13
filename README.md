@@ -22,6 +22,7 @@ Within each directory, you will find:
 | [0121 Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169 Majority Element](./169-majority-element/) | Easy |
 | [0219 Contains Duplicate II](./0219-contains-duplicate-ii/) | Easy |
+| [0268 Missing Number](./0268-missing-number/) | Easy |
 | [0485 Max Consecutive Ones](./0485-max-consecutive-ones/) | Easy |
 | [0016 3Sum Closest](./0016-3sum-closest/) | Medium |
 | [0075 Sort Colors](./0075-sort-colors/) | Medium |
