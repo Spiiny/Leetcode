@@ -25,6 +25,7 @@ Within each directory, you will find:
 | [0268 Missing Number](./0268-missing-number/) | Easy |
 | [0485 Max Consecutive Ones](./0485-max-consecutive-ones/) | Easy |
 | [0016 3Sum Closest](./0016-3sum-closest/) | Medium |
+| [0018 4Sum](./0018-4sum/) | Medium |
 | [0075 Sort Colors](./0075-sort-colors/) | Medium |
 | [0122 Best Time to Buy and Sell Stock II](./0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0179 Largest Number](./0179-largest-number/) | Medium |
