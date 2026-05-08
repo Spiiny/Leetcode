@@ -46,6 +46,7 @@ Within each directory, you will find:
 | Problem | Difficulty |
 |--------|------------|
 | [0006 Zigzag Conversion](./0006-zigzag-conversion/) | Medium |
+| [0049 Group Anagrams](./0049-group-anagrams/) | Medium |
 
 ---
 
