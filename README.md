@@ -38,6 +38,7 @@ Within each directory, you will find:
 | Problem | Difficulty |
 |--------|------------|
 | [0040 Combination Sum II](./0040-combination-sum-ii/) | Medium |
+| [0078 Subsets](./0078-subsets/) | Medium |
 
 ---
 
